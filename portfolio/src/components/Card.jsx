@@ -25,7 +25,9 @@ export default function Card({ item }) {
             <div >
                 <h1 className="text-inherit font-bold text-xl underline text-md mb-2">{item.name}</h1>
                 <p className="mx-2">{item.description}</p>
-                <p className="my-2 text-yellow-800 font-xs underline italic">{item.link}</p>
+                <p className="my-2 text-yellow-800 font-xs underline italic">
+                    <a href={item.link}>{item.link}</a>
+                    </p>
             </div>
         </div>
     );
