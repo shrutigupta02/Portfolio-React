@@ -3,7 +3,7 @@ export const projects = [
         id:1,
         name: "Netflix Clone",
         description: "Introducing the Netflix Clone Project, a masterful fusion of React ingenuity and Firebase functionality, meticulously crafted to emulate the unparalleled streaming experience of its namesake while offering a touch of personalized sophistication. At its core, this project embodies the sleekness and user-centric design ethos of Netflix, seamlessly replicated through React's robust framework. Users are greeted with a polished interface, complete with fluid navigation and visually captivating displays, ensuring a seamless transition into the world of on-demand entertainment. What truly sets the Netflix Clone Project apart is its integration of Firebase for authentication and sign-in functionality. With Firebase's secure authentication services seamlessly integrated, users can effortlessly access their accounts and unlock a plethora of personalized features with ease. ",
-        link: "https://shrutisnetflix.netlify.app",
+        link: "https://moviesbyshruti.netlify.app/",
         image: "../assets/netflix.png"
     },
     {
