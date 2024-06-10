@@ -6,10 +6,7 @@ export default function Backdrop(){
             <img 
             className="relative"
             src={logo}/>
-            <h1 
-            className="text-yellow-500 absolute bottom-20 text-6xl font-bold hover:italic">
-                S H R U T I  G U P T A
-            </h1>
+            
         </div>
     )
 }
